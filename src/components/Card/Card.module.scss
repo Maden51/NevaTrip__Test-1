@@ -1,0 +1,81 @@
+.container {
+  max-width: 341px;
+
+  &:nth-child(n + 2) {
+    margin-top: 30px;
+  }
+
+  .imageBox {
+    width: 100%;
+    img {
+      width: 100%;
+      border-top-left-radius: 16px;
+      border-top-right-radius: 16px;
+    }
+  }
+
+  .mainBox {
+    border: 0.3px solid #8282827e;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top: none;
+    padding: 16px 12px 19px;
+    margin-top: -5px;
+    .timeIconBox {
+      display: flex;
+      gap: 9px;
+      align-items: center;
+      .timeCount {
+        font-size: 12px;
+        line-height: 20px;
+        color: #9e9e9e;
+      }
+    }
+
+    h3 {
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 22px;
+      color: #404040;
+    }
+
+    .list {
+      list-style-type: none;
+      padding-inline-start: 0;
+    }
+
+    .timeBox {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-left: 49px;
+    }
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 19px;
+
+    .costBox {
+      .onlineCost {
+        font-size: 30px;
+      }
+
+      .offlineCost {
+        font-size: 10px;
+      }
+    }
+
+    .cardButton {
+      width: 165px;
+      background-color: #fed74b;
+      border: 0.5px solid #cba500;
+      border-radius: 20px;
+      text-align: center;
+      font-size: 14px;
+      color: #404040;
+      cursor: pointer;
+    }
+  }
+}

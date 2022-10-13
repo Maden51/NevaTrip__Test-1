@@ -1,0 +1,15 @@
+.listItem {
+  display: flex;
+  align-items: center;
+
+  &:nth-child(n + 1) {
+    margin-top: 7px;
+  }
+  svg {
+    position: absolute;
+  }
+
+  li {
+    margin-left: 49px;
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://i.ibb.co/VqhC6jH/sankt-peterburg-piter-st-3495.png",
+    "duration": 2,
+    "title": "АКЦИЯ - Обзорная экскурсия по рекам и каналам  с остановками Hop on Hop Off 2019",
+    "pluses": ["Билет на целый день", "Неограниченное число катаний", "6 остановок у главных достопримечательностей", "Ближайший рейс сегодня"],
+    "times": ["12:00", "12:00", "12:00", "12:00"],
+    "onlineCost": 900,
+    "offlineCost": 1200,
+    "novelty": true,
+    "allYear": false
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://i.ibb.co/VqhC6jH/sankt-peterburg-piter-st-3495.png",
+    "duration": 2,
+    "title": "АКЦИЯ - Обзорная экскурсия по рекам и каналам  с остановками Hop on Hop Off 2019",
+    "pluses": ["Билет на целый день", "Неограниченное число катаний", "6 остановок у главных достопримечательностей", "Ближайший рейс сегодня"],
+    "times": ["12:00", "12:00", "12:00", "12:00"],
+    "onlineCost": 2900,
+    "offlineCost": 1200,
+    "novelty": true,
+    "allYear": false
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.ibb.co/cYDr4bS/Adobe-Stock-168443825-1.png",
+    "duration": 2,
+    "title": "АКЦИЯ - Обзорная экскурсия по рекам и каналам  с остановками Hop on Hop Off 2020",
+    "pluses": ["Билет на целый день", "Неограниченное число катаний", "6 остановок у главных достопримечательностей", "Ближайший рейс сегодня"],
+    "times": ["12:00", "12:00", "12:00"],
+    "onlineCost": 900,
+    "offlineCost": 1200,
+    "novelty": true,
+    "allYear": false
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://i.ibb.co/3yxH2S2/ekskursii-po-spb-na-avtobuse-1.png",
+    "duration": 2,
+    "title": "АКЦИЯ - Обзорная экскурсия по рекам и каналам  с остановками Hop on Hop Off 2020",
+    "pluses": ["Билет на целый день", "Неограниченное число катаний", "6 остановок у главных достопримечательностей", "Ближайший рейс сегодня"],
+    "times": ["12:00", "12:00", "12:00", "12:00"],
+    "onlineCost": 900,
+    "offlineCost": 1200,
+    "novelty": false,
+    "allYear": true
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://i.ibb.co/rGpvxYb/music-1.png",
+    "duration": 2,
+    "title": "АКЦИЯ - Обзорная экскурсия по рекам и каналам  с остановками Hop on Hop Off 2020",
+    "pluses": ["Билет на целый день", "Неограниченное число катаний", "6 остановок у главных достопримечательностей", "Ближайший рейс сегодня"],
+    "times": ["12:00", "12:00", "12:00", "12:00", "12:00", "12:00"],
+    "onlineCost": 900,
+    "offlineCost": null,
+    "novelty": false,
+    "allYear": false
+  }
+]
